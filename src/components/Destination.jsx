@@ -6,7 +6,7 @@ import Header from "./Header.jsx";
 
 
 let backgroundStyles = {
-    backgroundImage:`url("../media/images/destination/background-destination-desktop.jpg")`,
+    backgroundImage:`url("/media/images/destination/background-destination-desktop.jpg")`,
     backgroundRepeat: "no-repeat",
     backgroundPosition: "center center",
     backgroundAttachment: "scroll",
