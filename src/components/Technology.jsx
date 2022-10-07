@@ -3,7 +3,7 @@ import Header from "./Header.jsx"
 import { Outlet } from "react-router-dom";
 
 let backgroundStyles = {
-    backgroundImage:`url("/media/images/technology/background-technology-desktop.jpg")`,
+    backgroundImage:`url("../media/images/technology/background-technology-desktop.jpg")`,
     backgroundRepeat: "no-repeat",
     backgroundPosition: "center center",
     backgroundAttachment: "scroll",

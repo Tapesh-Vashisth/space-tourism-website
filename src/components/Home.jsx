@@ -2,7 +2,7 @@ import React from "react";
 import Header from "./Header.jsx";
 
 let backgroundStyles = {
-    backgroundImage:`url("/media/images/home/background-home-desktop.jpg")`,
+    backgroundImage:`url("../media/images/home/background-home-desktop.jpg")`,
     backgroundRepeat: "no-repeat",
     backgroundPosition: "center center",
     backgroundAttachment: "scroll",
